@@ -1,0 +1,4 @@
+# Local run artifacts and the post-build handoff, not part of the entry.
+submit.json
+__pycache__/
+*.pyc
